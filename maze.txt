@@ -1,0 +1,7 @@
+s  f ff
+ f     
+ f f ff
+f  ff f
+ff     
+ff f ff
+ff f tf
